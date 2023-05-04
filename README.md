@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheAlexDev
 - 👀 I’m interested in coding games
-- 🌱 I’m currently learning a way to bring smartness into the heads of the three.js editor guys
+- 🌱 I’m currently learning web proxy stuff
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
